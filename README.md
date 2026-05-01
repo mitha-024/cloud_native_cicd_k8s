@@ -1,7 +1,7 @@
 # Cloud-Native CI/CD Pipeline with Kubernetes
 
 ## Overview
-Designed and implemented an end-to-end CI/CD pipeline using Jenkins, Docker, and Kubernetes (local cluster).
+Designed and implemented an end-to-end CI/CD pipeline using Jenkins, Docker, and Kubernetes deployed on an AWS EC2 instance.
 
 ## Features
 - Automated CI/CD pipeline using Jenkins
@@ -13,7 +13,7 @@ Designed and implemented an end-to-end CI/CD pipeline using Jenkins, Docker, and
 ## Tech Stack
 - AWS (EC2)
 - Docker
-- Kubernetes (Minikube)
+- Kubernetes (self managed cluster on AWS)
 - Jenkins
 - Terraform
 
