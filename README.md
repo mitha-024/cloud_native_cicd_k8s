@@ -17,7 +17,7 @@ Designed an end-to-end CI/CD pipeline using Jenkins, Docker, and Kubernetes.
 4. Application deployed to Kubernetes
 
 ## Tech Stack
-- AWS (EC2, EKS)
+- AWS (EC2)
 - Docker
 - Kubernetes
 - Jenkins
